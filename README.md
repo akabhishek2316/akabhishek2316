@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate learner full stock web development from U.P ,India</h3>
-<img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
+<img align="right"alt="coding"width="400"height="350"src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akabhishek2316&label=Profile%20views&color=0e75b6&style=flat" alt="akabhishek2316" /> </p>
 
 - 🌱 I’m currently learning **MERN Fullstock web development**
