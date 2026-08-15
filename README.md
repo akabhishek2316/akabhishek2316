@@ -70,11 +70,10 @@ emergency history and push notifications.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akabhishek2316&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akabhishek2316&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=akabhishek2316&theme=dark"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
