@@ -19,18 +19,10 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akabhishek2316&layout=compact&theme=dark"
-    alt="Top Languages"
+    src="https://streak-stats.demolab.com/?user=akabhishek2316&theme=dark"
+    alt="GitHub Streak"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=akabhishek2316&show_icons=true&theme=dark"
-    alt="GitHub Stats"
-  />
-</p>
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=akabhishek2316&theme=dark"
